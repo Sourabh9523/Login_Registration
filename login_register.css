@@ -1,0 +1,151 @@
+body
+{
+    background: url(https://images.pexels.com/photos/2603464/pexels-photo-2603464.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.loginbox
+{
+    background: hsl(249, 63%, 70%);
+    width: 400px;
+    padding: 40px;
+    overflow: hidden;
+    margin-left: 300px;
+    margin-top: 200px;
+    box-shadow: 0px opx 80px rgb(57, 15, 212);
+    border-radius: 5%;
+}
+
+.loginbox h2
+{
+    text-transform: uppercase;
+    text-shadow: 5px 1px 2px rgb(251, 252, 252);
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+.loginbox input
+{
+    width: 89%;
+    display: block;
+    padding: 20px;
+    margin-bottom: 20px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    border-radius: 15px 50px 30px 5px;
+    text-align: center;
+}
+
+.loginbtn
+{
+    color:rgb(247, 247, 247,);
+    width: 100%;
+    margin:auto;
+    border-radius: 50px 30px 50px 30px;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-shadow: 3px 0px 2px rgb(93, 196, 10);
+    box-shadow: 0px 0px 80px -7px rgb(212, 203, 203);
+    font-weight: bold;
+    font-family: sans-serif;
+    font-style: italic;
+
+    background: linear-gradient(#44609c39,#3e6e4f);
+}
+.loginbtn:hover
+{
+    background: linear-gradient(#3e6e4f,#44609c39);
+}
+
+.registerlink
+{
+margin-left: 200px;
+}
+.registerlink span
+{
+    color: white;
+    font-size: 20px;
+}
+.registerlink
+{
+    text-decoration: none;
+    color:greenyellow;
+    font-size: 15px;
+}
+
+.registerbox
+{
+    background: rgb(249, 63%, 70%);
+    width: 400px;
+    padding: 40px;
+    overflow: hidden;
+    margin-left: 300px;
+    margin-top: 200px;
+    box-shadow: 0px 0px 80px  rgb(212, 203, 203);
+    border: 5%;
+}
+
+.registerbox h2
+{
+    text-shadow: 5px 1px 2px rgb(251, 252, 252);
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px
+}
+
+.registerbox input
+{
+    width: 89px;
+    display: block;
+    padding: 20px;
+    margin-bottom: 20px;
+    outline:none;
+    border:none;
+    font-size: 16px;
+    border-radius: 5px 3px 50px 15px;
+    text-align: center;
+}
+
+.registterbtn
+{
+    color:rgb(247, 247, 247,);
+    width: 100%;
+    margin:auto;
+    border-radius: 50px 30px 50px 30px;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-shadow: 3px 0px 2px rgb(93, 196, 10);
+    box-shadow: 0px 0px 80px -7px rgb(212, 203, 203);
+    font-weight: bold;
+    font-family: sans-serif;
+    font-style: italic;
+
+    background: linear-gradient(#44609c39,#3e6e4f);
+}
+.registterbtn:hover
+{
+    background: linear-gradient(#3e6e4f,#44609c39);
+}
+
+.loginlink
+{
+    margin-left: 30px;
+}
+.loginlink
+{
+    color: white;
+    font-size: 20px;
+}
+.loginlink a
+{
+    text-decoration: none;
+    color: greenyellow;
+    font-size: 15px;
+}
+b{
+    color: white;
+    font-size: 18px;
+}
